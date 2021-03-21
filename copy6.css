@@ -15,3 +15,30 @@
 img{
   max-width: 100%;
 }
+
+.title {
+  width: 120px;
+  line-height: 1px;
+  padding: 10px 0;
+}
+
+#header ul {
+  display: flex;
+  padding: 10px 0;
+}
+
+#header li {
+  margin-left: 30px;
+}
+
+li {
+  list-style: none;
+}
+
+#header li a {
+  color: #24292e;
+}
+
+a {
+  text-decoration: none;
+}
