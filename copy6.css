@@ -67,3 +67,12 @@ a {
 #about .text {
   text-align: left;
 }
+
+#bicycle ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+#bicycle li {
+  width: 32%;
+}
